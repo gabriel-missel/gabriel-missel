@@ -6,7 +6,7 @@ I have a strong background working with distributed systems, cloud platforms, an
 
 ---
 
-## 🔧 Main Skills & Tech Stack
+## 🔧 Tech Stack
 
 - Java · Spring  
 - Oracle Database · MySQL · MongoDB · Redis · Elasticsearch  
