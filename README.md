@@ -26,4 +26,4 @@ I’m the creator and an active contributor of **Brasil Transparente**, an open-
 
 ## 📫 How to reach me
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/gabrielmissel/) or here on GitHub.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/gabrielmissel/), here on GitHub or by email: gabrielmissel@pm.me .
