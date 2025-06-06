@@ -12,7 +12,7 @@ I have a strong background working with distributed systems, cloud platforms, an
 - Oracle Database · MySQL · MongoDB · Redis · Elasticsearch  
 - Kafka · RabbitMQ  
 - SonarQube · Splunk  
-- DevOps · SRE · Docker · GCP  
+- Docker · GCP  
 - REST · GraphQL
 
 ---
