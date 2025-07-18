@@ -19,7 +19,7 @@ I have a strong background working with distributed systems, cloud platforms, an
 
 ## 🌍 Open Source - Brasil Transparente
 
-I’m the creator and an active contributor of **Brasil Transparente**, an open-source Brazilian project focused on increasing public spending transparency. Alongside a growing community, I help build tools to make government financial data more accessible and understandable for everyone. Currently all my GitHub contributions are focused there.
+I’m the creator and an active contributor of [**Brasil Transparente**](https://github.com/brasil-transparente), an open-source Brazilian project focused on increasing public spending transparency. Alongside a growing community, we make government financial data more accessible and understandable for everyone. We aim to centralize data scattered across multiple databases distributed among different government branches and across federal and state governments. Currently, all my GitHub contributions are focused there.
 
 ---
 
