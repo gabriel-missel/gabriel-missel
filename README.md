@@ -5,7 +5,7 @@ I’m a backend developer with 10+ years of experience building scalable, high-p
 Skilled in designing clean architectures, optimizing system performance, and integrating complex services in cloud environments. Strong advocate for comprehensive testing strategies and code quality practices. Recently involved in open source contributions and civic technology.
 
 ## Technology Stack
-Java • Spring Boot • Microservices • GCP • Oracle Database • MySQL • Redis • Elasticsearch • Kafka • RabbitMQ • Docker • REST • GraphQL • CI/CD • DevOps
+Java • Spring Boot • Microservices • GCP • AWS • Oracle Database • PostgreSQL • MySQL • Redis • Elasticsearch • Kafka • RabbitMQ • Docker • REST • GraphQL • CI/CD • DevOps
 
 ## Open Source - Brasil Transparente
 
